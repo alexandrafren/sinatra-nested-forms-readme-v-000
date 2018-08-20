@@ -38,7 +38,7 @@ To create these two different classes of objects, we need to create two models,
 #### `Student` class
 
 Our `Student` class, with `name` and `grade` attributes, will look something
-like this:
+like this::
 
 ```ruby
 class Student
